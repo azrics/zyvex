@@ -23,7 +23,7 @@ A modern, responsive, and performance-optimized static single-page corporate web
 
 ## 🎨 Design & Branding
 
-- **Typography**: The primary font family is `Inter` (sans-serif), imported seamlessly via Google Fonts.
+- **Font Name/Family**: `Inter` (sans-serif), imported seamlessly via Google Fonts.
 - **Primary Brand Colors**:
   - **Dark Navy Blue**: `#0a192f` (used for the "SIA" text in the header and core typography).
   - **Gold**: `#d4af37` (used for the "ZYVEX" text via the custom `.accent-gold` class and general highlights).
