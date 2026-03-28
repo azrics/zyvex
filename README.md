@@ -21,6 +21,16 @@ A modern, responsive, and performance-optimized static single-page corporate web
 - **Lucide Icons** (for lightweight, scalable vector icons)
 - **Web3Forms API** (for handling form submissions without a backend server)
 
+## 🎨 Design & Branding
+
+- **Typography**: The primary font family is `Inter` (sans-serif), imported seamlessly via Google Fonts.
+- **Primary Brand Colors**:
+  - **Dark Navy Blue**: `#0a192f` (used for the "SIA" text in the header and core typography).
+  - **Gold**: `#d4af37` (used for the "ZYVEX" text via the custom `.accent-gold` class and general highlights).
+- **Logo Configuration**:
+  - **Header Logo**: Normal case "SIA", uppercase "ZYVEX" (`text-2xl font-bold tracking-tight text-[#0a192f]`, `.accent-gold`).
+  - **Footer Logo**: All uppercase "SIA ZYVEX" (`text-2xl font-black tracking-widest text-[#d4af37]`).
+
 ## 📂 File Structure
 
 ```text
